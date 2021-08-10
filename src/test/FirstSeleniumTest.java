@@ -10,5 +10,6 @@ public class FirstSeleniumTest {
 		WebDriver driver = new ChromeDriver();
 		System.setProperty("WebDriver.Chrome.driver", "C:\\chromedriver_win32");
 		driver.get("https://qa_admin.eatmeglobal.org/");
+		///test ....
 	}
 }
